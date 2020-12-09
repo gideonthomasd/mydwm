@@ -23,7 +23,7 @@ static const char *colors[][3]      = {
 
 static const char *const autostart[] = {
 	/*"dwmblocks", NULL,*/
-	"slstatus", NULL,
+	"/home/phil/dwm-bar/dwm_bar.sh", NULL,
 	"xcompmgr", NULL,
 	"lxpolkit", NULL,
 	"/home/phil/dwm-6.2/testwallpaper", NULL,
