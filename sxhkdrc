@@ -7,8 +7,8 @@ super + Return
 	termite
 # For transparency do yay -S ....
 # program launcher
-super + p
-	dmenu_run
+#super + p
+	#dmenu_run -fn 'Noto Sans-15'
 
 ctrl + g
 	geany
@@ -128,7 +128,7 @@ super + Escape
 #
 
 # preselect the direction
-s#uper + ctrl + {h,j,k,l}
+#s#uper + ctrl + {h,j,k,l}
 	#bspc node -p {west,south,north,east}
 
 # preselect the ratio
