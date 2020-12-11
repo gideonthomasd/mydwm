@@ -27,8 +27,8 @@ static const char *const autostart[] = {
 	"/home/phil/dwm-bar/dwm_bar.sh", NULL,
 	"xcompmgr", NULL,
 	"lxpolkit", NULL,
-	"/home/phil/dwm-6.2/testwallpaper", NULL,
-	"sxhkd", "-c", "/home/phil/dwm-6.2/sxhkdrc", NULL, 
+	"/home/phil/dwm-6.2d/testwallpaper", NULL,
+	"sxhkd", "-c", "/home/phil/dwm-6.2d/sxhkdrc", NULL, 
 	NULL /* terminate */
 };
 
